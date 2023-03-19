@@ -86,5 +86,12 @@ char | System.Char| 1 byte
 [^2]: second hyperlink text
 
 
+<!-- Third tutorial -->
+~~Crossed~~
+:expressionless:
+
+- [ ] Main Task
+    - [ ] Secondary Task
+
 
 
