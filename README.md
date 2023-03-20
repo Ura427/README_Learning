@@ -59,8 +59,10 @@ __Example:__
 
 >If link is big and it messes up the text, you can create link on link
 
-first hyperlink[^1] and second hyperlink[^2] 
+[first hyperlink][1] and second hyperlink[^2] 
 
+[1]: https://www.google.com
+[^2]: https://translate.google.com
 ---
 
 ###Creating lists
@@ -168,5 +170,3 @@ __Example:__
 
 
 
-[^1]: https://www.google.com
-[^2]: https://translate.google.com
